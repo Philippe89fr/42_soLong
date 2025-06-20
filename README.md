@@ -54,4 +54,6 @@ git clone git@github.com:Philippe89fr/42_soLong.git
 make
 ```
 3. Launch Game:
+```bash
 ./so_long maps/valide_grande.ber
+```
