@@ -8,6 +8,29 @@ So Long is a 2D game project that introduces fundamental game programming concep
 # Context:
 Part of 42 Common Core.
 
+## Map Example
+```bash
+1111111111111
+1000001000001
+10P0000000001
+1000000100001
+1000000000001
+10000001M0C01
+1000000000001
+1000000000001
+1000000000001
+1000M00000001
+100C00000E001
+1000000000001
+1111111111111
+```
+  - `1` represents a wall.
+  - `0` represents an empty space.
+  - `P` represents the character.
+  - `C` represents a collectible
+  - `M` represents a monster.
+
+
 # Main Technologies / Skills Used:
 
 - **Programming Languages:** C
