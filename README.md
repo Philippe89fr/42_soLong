@@ -53,7 +53,5 @@ git clone git@github.com:Philippe89fr/42_soLong.git
 ```bash
 make
 ```
-3. with bonus:
-```bash
-make bonus
-```
+3. Launch Game:
+./so_long maps/valide_grande.ber
